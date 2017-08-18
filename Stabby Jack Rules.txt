@@ -1,0 +1,138 @@
+Stabby Jack is a Role-Playing Game (RPG) played with a deck of cards.
+
+2+ players use one deck of 52/54 cards per two players: 2 decks for 3-4P, etc.
+A marker to indicate Damage is also required.
+
+Players win by increasing their character's Attributes, Leveling Up, and fighting Monsters!
+
+-- SETUP --
+
+2-10 are Numbered cards.
+Ace(A), Jack(J), Queen(Q), King(K), and Joker(O) are Specials.
+Jokers are optional.
+
+Shuffle the cards and place them face down in the middle of the table.
+This is the Deck. There will also be a Discard pile.
+When the Deck is emptied, leave the top Discard on the table and reshuffle the Deck.
+
+Each player requires a space for their character's Attributes, captured Monsters, and a means to track Damage.
+
+-- CHARACTERS --
+
+Deal each player four Numbered cards (2-10) face up. Discard any Specials.
+These are each character's Attributes.
+Characters are born with Numbered cards equal to their Level(L). Begin at L4. Maximum is L8.
+
+(H) Hearts   =       Health (HP)
+(C) Clubs    =         Luck (LP)
+(S) Spades   = Black Attack (BA)
+(D) Diamonds =   Red Attack (RA)
+
+Suits stack together EX: 3H,8H,4C,5C,4S = 11HP,9LP,4BA
+
+A player with no Hearts has a character with 1HP.
+
+-- PLAY --
+
+Anyone begins. Play proceeds to the left in turns...
+
+On your turn you must announce your action first: You may Fight, Train, Stay In Bed, or Level Up.
+
+IF YOU DRAW A CARD WITHOUT SAYING WHAT YOUR ACTION IS, DISCARD IT AND FORFEIT YOUR TURN.
+
+IF YOU DRAW A SPECIAL CARD, A SPECIAL EVENT HAPPENS (SEE BELOW).
+
+"Fight"
+Draw a card from the Deck.
+Fight the Numbered card (2-10),
+- Fight RED cards with Diamonds(D)
+- Fight BLACK cards with Spades(S)
+If you have more Attack than the value on the Numbered card, you capture the monster: Keep the card as one Monster Point (+1MP).
+If you tie, check your Luck. LP >= the card value wins the fight.
+
+"Train"
+Draw a card from the deck.
+This Numbered card (2-10) replaces any one of your Attributes (you choose).
+
+"Stay In Bed"
+Heal 1HP / Remove one Damage
+
+"Level Up"
+Discard 5MP from your captured Monsters, and add one Attribute to your character (Max L8).
+Draw until you reach a Numbered card. Discard any Specials.
+
+-- SPECIALS --
+
+A, J, Q, K, O are Special cards.
+
+Any time a Special card is drawn, its Special Event happens and the turn ends.
+The two exceptions to this are Birth and Level Up from MP, when Specials are Discarded.
+
+A
+When an Ace is drawn, that player swaps a character Attribute card with another character.
+The card may be of the same Number or of the same Suit.
+EX: 7C for 7H, or 2S for 10S
+ACES ARE MANDATORY.
+
+J
+When a Jack is drawn, Stabby Jack stabs the character. Twice.
+Take 2 Damage / -2HP
+If you have captured a King, you may choose to Discard him (-2MP) to avoid Stabby Jack.
+
+Q
+When a Queen is drawn, the player must choose to either
+1. Receive a blessing:
+  Heal 2HP / -2 Damage, or
+2. Steal from the Queen:
+  Draw the next card.
+  - If it is a Numbered card, check your Luck. If your LP is >= the Number on the card you Level Up; Add it to your Attributes (Max L8).
+  - If it is a Special card, a Special Event happens.
+
+K
+When a King is drawn, fight the King. He is worth 13 (9,10,J,Q,K).
+- Fight RED Kings with Diamonds(D)
+- Fight BLACK Kings with Spades(S)
+Always lose ties with the King, you need 14 to win.
+If you capture a King keep him with your Monsters. He is worth 2MP.
+
+O
+When the Joker is drawn, get a free Level Up.
+Draw the next card,
+- If it is a Numbered card, add it to your Attributes (Max L8).
+- If it is a Special card, a Special Event happens.
+
+-- DEATH --
+
+If a character's Damage exceeds the sum of their Heart Attribute cards (0HP), the character dies.
+Discard their captured Monsters. Discard their Attributes.
+The player may immediately be dealt a new character at the same Level as the one who died. Deal new Numbered cards, Discard all Specials.
+A character may or may not die on their turn. Play continues to the left.
+
+-- GOAL --
+
+A player wins if AT ANY TIME their character has ALL THREE OF:
+
+1. Ten or more Monster Points (10MP),
+2. More Luck (LP) than each other character, and
+3. Enough attack power (BA or RA) to reduce each other character's Health (HP) to zero.
+
+-- REMINDERS --
+
+* A character with no Heart Attribute cards has 1HP.
+
+* Any time a Special card is drawn, its effect happens and the turn ends.
+  The two exceptions to this are Birth and Level Up from MP (Specials are Discarded).
+  EX: "Fight" -> Q -> O -> Q -> J -> -2HP -> End
+
+* IF YOU DRAW A CARD WITHOUT SAYING WHAT IT IS, DISCARD IT AND FORFEIT YOUR TURN.
+
+* Special cards are mandatory, but you may always choose either option with the Queen.
+
+* Win ties with the Queen. Lose ties with the King.
+
+* When Training, the drawn card must replace a current attribute.
+
+* At L8 you may not obtain more Attributes. If you Level Up, you may Discard the drawn card instead of a current Attribute.
+
+* No cards are hidden, except the Deck.
+

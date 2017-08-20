@@ -69,10 +69,9 @@ Any time a Special card is drawn, its Special Event happens and the turn ends.
 The two exceptions to this are Birth and Level Up from MP, when Specials are Discarded.
 
 A
-When an Ace is drawn, that player swaps a character Attribute card with another character.
+When an Ace is drawn, that player must swap a character Attribute card with another character.
 The card may be of the same Number or of the same Suit.
 EX: 7C for 7H, or 2S for 10S
-ACES ARE MANDATORY.
 
 J
 When a Jack is drawn, Stabby Jack stabs the character. Twice.

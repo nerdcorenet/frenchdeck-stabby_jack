@@ -48,6 +48,7 @@ Fight the Numbered card (2-10),
 - Fight RED cards with Diamonds(D)
 - Fight BLACK cards with Spades(S)
 If you have more Attack than the value on the Numbered card, you capture the monster: Keep the card as one Monster Point (+1MP).
+If you lose, mark 1 Damage (-1HP).
 If you tie, check your Luck. LP >= the card value wins the fight.
 
 "Train"
@@ -93,6 +94,7 @@ When a King is drawn, fight the King. He is worth 13 (9,10,J,Q,K).
 - Fight BLACK Kings with Spades(S)
 Always lose ties with the King, you need 14 to win.
 If you capture a King keep him with your Monsters. He is worth 2MP.
+If you lose to a King mark 2 Damage (-2HP).
 
 O
 When the Joker is drawn, get a free Level Up.

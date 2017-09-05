@@ -5,6 +5,8 @@ A marker to indicate Damage is also required.
 
 Players win by increasing their character's Attributes, Leveling Up, and fighting Monsters!
 
+http://stabbyjackcardgame.com/
+
 -- SETUP --
 
 2-10 are Numbered cards.

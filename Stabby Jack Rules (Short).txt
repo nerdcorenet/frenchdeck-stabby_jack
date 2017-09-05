@@ -1,0 +1,96 @@
+Stabby Jack is a card game RPG
+http://stabbyjackcardgame.com/
+
+One deck of cards for every two players (round up)
+Markers to indicate Damage required
+
+SETUP
+
+2-10 are Numbered cards
+Other cards are Specials
+
+Shuffle the cards; place face down on table.
+This is the Deck. There will be a Discard pile.
+When Deck is emptied, reshuffle Discard pile.
+
+Deal each player 4 Numbered cards face up. Discard any Specials.
+These are each character's Attributes.
+Characters are born with Numbered cards equal to their Level. Begin at L4. Max is L8.
+
+(HP) Hearts = Health
+(LP) Clubs = Luck
+(BA) Spades = Black Attack
+(RA) Diamonds = Red Attack
+
+Suits stack together EX: 3H,8H,5S,4S = 11HP,9BA
+No Hearts = 1HP
+
+PLAY
+
+Anyone begins. Play proceeds to the left.
+On your turn you must announce your action FIRST: FIGHT, TRAIN, HEAL, or LEVEL.
+
+IF YOU DRAW A CARD WITHOUT FIRST SAYING YOUR ACTION, DISCARD IT AND FORFEIT YOUR TURN.
+
+FIGHT
+Draw a card from the Deck
+Fight the Numbered card (Or see "SPECIALS")
+Fight RED cards with RA, BLACK cards with BA
+If you have more Attack than the value on the Numbered card, you capture the Monster
+Keep the card as one Monster Point (1MP)
+If you tie, check your Luck. LP >= the card value wins
+Lost fights cause 1 damage
+
+TRAIN
+Draw a card from the deck
+Numbered cards MUST replace one of your Attributes (Or see "SPECIALS")
+
+HEAL
+Heal 1HP
+
+LEVEL
+Discard 5MP from your captured Monsters, and add one Attribute to your character (Max L8).
+Draw until you reach a Numbered card. Discard any Specials.
+
+SPECIALS
+
+Any time a Special card is drawn, its Special Event happens:
+
+Ace
+You must swap a character Attribute card with another player
+The card must be of same Number or Suit
+When swapping Hearts (HP) all Damage stays with the player, not with the card
+
+Jack
+Stabby Jack stabs you. Twice.
+Take 2 Damage
+If you have captured a King, you may Discard him to avoid Stabby Jack
+
+Queen
+Choose to either:
+- Heal (2HP), OR
+- Steal: Draw the next card. If it is a Numbered card, check Luck. If your LP is >= the card's number, Level Up; Add it to your Attributes. (Or see "SPECIALS")
+
+King
+Fight the King. He is worth 13. Fight RED Kings with RA, BLACK Kings with BA
+Always lose ties with the King
+If you capture a King keep him with your Monsters. He is worth 2MP.
+Lost fights cause 2 damage
+
+Joker
+Get a free Level Up
+Draw the next card
+If it is a Numbered card, add it to your Attributes. (Or see "SPECIALS")
+
+DEATH
+
+At 0 HP, the character dies
+Discard Monsters and Attributes
+Deal a new character at same Level
+
+GOAL
+
+A player wins if AT ANY TIME they have ALL 3 OF:
+1. 10 or more MP
+2. More LP than any other player
+3. More BA or RA than any other player's current HP

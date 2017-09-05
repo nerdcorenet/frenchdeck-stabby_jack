@@ -4,6 +4,8 @@ A quick game played with the [standard Anglo-American 52-card deck (the French D
 
 Also known as "5-minute RPG".
 
+http://stabbyjackcardgame.com/
+
 ## Overview
 
 This game is played with one or more standard decks of 52 cards (or 54 with Jokers) and uses a standard face-down draw pile and face-up discard piles. Each player has a face up Stats Row representing their stat points, and an XP Row representing their experience points or killed/bagged monsters. You will also need some coins or other markers for marking damage to Hit Points (HP).

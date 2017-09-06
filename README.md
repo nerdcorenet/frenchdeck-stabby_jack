@@ -4,7 +4,7 @@ A quick game played with the [standard Anglo-American 52-card deck (the French D
 
 Also known as "5-minute RPG".
 
-http://stabbyjackcardgame.com/
+http://stabbyjack.com/
 
 ## Overview
 

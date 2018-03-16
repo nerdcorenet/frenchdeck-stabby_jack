@@ -1,0 +1,34 @@
+STABBY JACK = RPG Played With Cards
+
+1 Deck per 2 Players (3-4P=2D,5-6P=3D,etc) + Damage markers
+Jokers optional (O)
+
+Each Player gets 4 numbered cards 2-10 as Attributes/Levels (face up):
+Hearts = Health [HP]
+Clubs = Luck [LP]
+Diamonds = Red Attack [RA]
+Spades = Black Attack [BA]
+
+ON YOUR TURN (CHOOSE ONE):
+FIGHT = Draw to fight 2-10*; Fight red with RA / black with BA; Keep monster [MP] or take 1 Damage; For ties check LP
+TRAIN = Draw to train 2-10*; Replace 1 Attribute (Must)
+SLEEP = Stay in bed; -1 Damage
+LEVEL = Discard 5MP; Draw until 2-10; Add Attribute (Max 8)
+
+* IF YOU DRAW A,J,Q,K,O:
+ACE = SWAP 1 Attribute with another player; Same suit OR same value (Must)
+JACK = STABBY JACK; -2HP
+QUEEN = HEAL 2HP OR STEAL to draw an Attribute 2-10* (Max 8); If <= your LP, Add Attribute; Win Ties
+KING = FIGHT K of colour [RA/BA]; K=13; Lose Ties; Keep 2MP or -2HP
+JOKER = LEVEL; Draw 2-10*; Add Attribute (Max 8)
+
+GOAL IS ALL OF:
+10 or more MP,
+More LP than any other, AND
+More attack [RA OR BA] than any others' HP.
+
+IF YOU DIE (Damage >= HP): Discard attributes, damage, MP; Deal new Attributes at same Level (4-8)
+
+ALSO:
+You may discard K (2MP) to avoid J (-2HP)
+No Hearts = 1HP

@@ -32,3 +32,4 @@ IF YOU DIE (Damage >= HP): Discard attributes, damage, MP; Deal new Attributes a
 ALSO:
 You may discard K (2MP) to avoid J (-2HP)
 No Hearts = 1HP
+At Level 8, Q and O become optional; TRAIN is mandatory

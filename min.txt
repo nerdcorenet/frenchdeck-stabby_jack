@@ -18,7 +18,7 @@ LEVEL = Discard 5MP; Draw until 2-10; Add Attribute (Max 8)
 * IF YOU DRAW A,J,Q,K,O:
 ACE = SWAP 1 Attribute with another player; Same suit OR same value (Must)
 JACK = STABBY JACK; -2HP
-QUEEN = HEAL 2HP OR STEAL to draw an Attribute 2-10* (Max 8); If <= your LP, Add Attribute; Win Ties
+QUEEN = HEAL 2HP OR STEAL to draw an Attribute 2-10*; If <= your LP, Add Attribute (Max 8); Win Ties
 KING = FIGHT K of colour [RA/BA]; K=13; Lose Ties; Keep 2MP or -2HP
 JOKER = LEVEL; Draw 2-10*; Add Attribute (Max 8)
 
